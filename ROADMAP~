@@ -1,0 +1,23 @@
+V0.0.1 ALPHA
+===
+---
+##interface:
++ output field
+##text parsing:
++ error handling
++ more testing
+##database:
++ basic sqlite interface
+
+V0.0.0 ALPHA
+===
+---
+##interface:
++ basic frame
+##text parsing:
++ basic brute text parsing
++ basic fields parsing
+
+
+
+

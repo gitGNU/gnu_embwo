@@ -1,0 +1,37 @@
+V0.0.2 ALPHA
+===
+---
+##interface:
++ database setup button
++ standard error handling interface
++ basic language select
+##text parsing:
++ nothing
+##database:
++ check database topology
++ create topology with setup button
++ load to database from markdown
+
+V0.0.1 ALPHA
+===
+---
+##interface:
++ output field
+##text parsing:
++ error handling
++ more testing
+##database:
++ basic sqlite interface
+
+V0.0.0 ALPHA
+===
+---
+##interface:
++ basic frame
+##text parsing:
++ basic brute text parsing
++ basic fields parsing
+
+
+
+
