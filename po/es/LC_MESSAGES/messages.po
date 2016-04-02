@@ -1,0 +1,24 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# gentooza <joa.cuellar@riseup.net>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-02 12:20+0200\n"
+"PO-Revision-Date: 2016-04-02 13:40+0200\n"
+"Last-Translator: gentooza <joa.cuellar@riseup.net>\n"
+"Language-Team: Español; Castellano <joa.cuellar@riseup.net>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Gtranslator 2.91.7\n"
+
+#: BWO.py:46
+msgid "initialized BWO"
+msgstr "BWO inicializado"
