@@ -22,6 +22,7 @@ try:
    import config
    from PyQt5.QtCore import *
    from PyQt5.QtWidgets import *
+   import gettext
 
 except ImportError as err:
    print("couldn't load module. %s" % (err))
@@ -39,8 +40,11 @@ it constructs and destructs the main dialog and starts the app
 class BWO(object):
 
  def __init__(self):
-   print('initialized BWO');
-   print('version: ',config.version);
+   es = gettext.translation('messages', localedir='po', languages=['es'])
+   es.install()
+   
+   print(_('initialized BWO'));
+   print(_('version: '),config.version);
    self.app = QApplication(sys.argv)
    self.app.aboutToQuit.connect(self.app.deleteLater)
 
@@ -54,7 +58,6 @@ class BWO(object):
 
  def exit(self):
      sys.exit(self.app.exec_())
-
 
 #APPLICATION running!
 app = BWO()

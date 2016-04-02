@@ -42,8 +42,8 @@ class Form(QWidget):
         self.application = application
         super(Form, self).__init__(parent)
  
-        nameLabel = QLabel(".md file:")
-        DBlabel = QLabel("sqlite database:")
+        nameLabel = QLabel(_('.md file:'))
+        DBlabel = QLabel(_('sqlite database:'))
         voidLabel = QLabel("")
         
         self.DBstatus = QLabel("")
@@ -51,9 +51,9 @@ class Form(QWidget):
         self.DBstatus.setScaledContents(False)
         
         self.nameLine = QLineEdit()
-        self.submitButton = QPushButton("Submit")
-        self.checkButton = QPushButton("Check")
-        self.setupButton = QPushButton("Setup")        
+        self.submitButton = QPushButton(_('Submit'))
+        self.checkButton = QPushButton(_('Check'))
+        self.setupButton = QPushButton(_('Setup'))        
         
         self.consoleOutput = QTextEdit()
         self.consoleOutput.setReadOnly(True)
