@@ -1,0 +1,86 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-04-30 10:32+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: BWO.py:46
+msgid "initialized BWO"
+msgstr ""
+
+#: BWO.py:47
+msgid "version: "
+msgstr ""
+
+#: ui/ui.py:45
+msgid ".md file:"
+msgstr ""
+
+#: ui/ui.py:46
+msgid "sqlite database:"
+msgstr ""
+
+#: ui/ui.py:54
+msgid "Submit"
+msgstr ""
+
+#: ui/ui.py:55
+msgid "Check"
+msgstr ""
+
+#: ui/ui.py:56
+msgid "Setup"
+msgstr ""
+
+#: ui/ui.py:124 ui/ui.py:131
+msgid "Error!"
+msgstr ""
+
+#: ui/ui.py:125
+msgid ".md file bad formatted or invalid!"
+msgstr ""
+
+#: ui/ui.py:128
+msgid "Success!"
+msgstr ""
+
+#: ui/ui.py:129
+msgid "File correctly parsed"
+msgstr ""
+
+#: ui/ui.py:132
+msgid "File not found!"
+msgstr ""
+
+#: ui/ui.py:135
+msgid "Checking Database status..."
+msgstr ""
+
+#: ui/ui.py:138 ui/ui.py:150
+msgid "OK!!"
+msgstr ""
+
+#: ui/ui.py:140 ui/ui.py:152
+msgid "some errors encountered"
+msgstr ""
+
+#: ui/ui.py:145
+msgid "Setting up database..."
+msgstr ""
+
+#: ui/ui.py:154
+msgid "Database is already ok!"
+msgstr ""

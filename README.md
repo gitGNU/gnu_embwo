@@ -15,9 +15,19 @@ I'm simply coding using pyqt5, python3 and sqlite3, get them installed by your p
 
 #2.- License
 
-GPLv3! 
+##Source code
+GPLv3 or later, 
 Copylefted, of course...
 
+##Art Work
+images:
+
++ art/green.png
++ art/grey.png
++ art/red.png
+
+are licensed under CC-BY-SA
+copyright 2012-2016 Prointegra S.L. , mail: correo@prointegra.com
 #3.- Contact
 
 + gentooza : joa.cuellar(at)mail.riseup.net

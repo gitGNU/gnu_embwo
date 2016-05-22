@@ -1,7 +1,7 @@
 #! /usr/bin/env python
 
 #
-#  DDAA's Eleanor Margaret Burbidge Work Organizer  
+#  Eleanor Margaret Burbidge Work Organizer  
 #
 #  Copyright 2016 by it's authors. 
 #
