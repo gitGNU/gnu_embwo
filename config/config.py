@@ -19,6 +19,6 @@ config.py - BWO configuration parameters
 global variables or parameters
 """
 #app version and status
-version = '0.0.1'
+version = '0.0.2'
 status = 'ALPHA'
 
